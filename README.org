@@ -1,0 +1,10 @@
+* ext-blog
+
+ext-blog is a common lisp blog engine. It supports custom theme and you can port a WordPress theme for it.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/kevinlynx/ext-blog.git   |
+| commit  | 4f6a6f0  |
+| systems | ext-blog |
+|---------+-------------------------------------------|
+
